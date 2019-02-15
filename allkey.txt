@@ -1,5 +1,5 @@
-http://100count.net/faucet/network/mine/ltc/faucet.php?address=MBXap9K6BRHrjP2x5Us61K5sEHpdwdDMhm&currency=LTC&key=9bcb6579d6afca3683d2e4f1dd64989e688c7917&t=1549040107
-faucet.dutchycorp.space/auto1min/faucet.php?address=MBXap9K6BRHrjP2x5Us61K5sEHpdwdDMhm&currency=LTC&action=&miner=on&key=0cfadbe77eed2018eb429052e24d6c29
-auto.eaglezz.com/faucet.php?address=MBXap9K6BRHrjP2x5Us61K5sEHpdwdDMhm&currency=LTC&key=7a7147de958647159a426124ea74d1b3
-auto4.eaglezz.com/faucet.php?address=MBXap9K6BRHrjP2x5Us61K5sEHpdwdDMhm&currency=LTC&key=7a7147de958647159a426124ea74d1b3
-faucet.dutchycorp.space/auto2min/faucet.php?address=MBXap9K6BRHrjP2x5Us61K5sEHpdwdDMhm&currency=LTC&action=&miner=on&key=0cfadbe77eed2018eb429052e24d6c29
+http://100count.net/faucet/network/mine/ltc/faucet.php?address=395gfST35xaMSwRdSiLhUMecb9PCCAC36m&currency=LTC&key=9bcb6579d6afca3683d2e4f1dd64989e688c7917&t=1549040107
+faucet.dutchycorp.space/auto1min/faucet.php?address=395gfST35xaMSwRdSiLhUMecb9PCCAC36m&currency=LTC&action=&miner=on&key=0cfadbe77eed2018eb429052e24d6c29
+auto.eaglezz.com/faucet.php?address=395gfST35xaMSwRdSiLhUMecb9PCCAC36m&currency=LTC&key=7a7147de958647159a426124ea74d1b3
+auto4.eaglezz.com/faucet.php?address=395gfST35xaMSwRdSiLhUMecb9PCCAC36m&currency=LTC&key=7a7147de958647159a426124ea74d1b3
+faucet.dutchycorp.space/auto2min/faucet.php?address=395gfST35xaMSwRdSiLhUMecb9PCCAC36m&currency=LTC&action=&miner=on&key=0cfadbe77eed2018eb429052e24d6c29
